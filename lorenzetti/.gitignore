@@ -1,0 +1,31 @@
+cmt/boost_test.h.gch
+cmt/new_env_file.sh
+*.pyc
+.ipynb_checkpoints/*
+doc/.ipynb_checkpoints/*
+*.mat
+*.pic
+*.gz
+*.npz
+*.root
+*.log
+*.pdf
+*.eps
+*.pdf
+*.tex
+*.C
+*.bak
+cmt/boost_test.cxx.o
+MoreFilesForYou-*
+.asetup.save
+build
+.python-version
+
+# vscode
+./.vscode/*
+
+# configs cells
+./lorenzet/share/json_files/
+
+executables
+*.exe
